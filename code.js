@@ -56,7 +56,6 @@ function kata2() {
 let newMessage = ""
 if ("blue" === color) {
      return "The sky is blue.";
-     return "The flower is red"
 } else if (color === "red") {
     return "The flower is red."
 } else if (color === "green") { 
